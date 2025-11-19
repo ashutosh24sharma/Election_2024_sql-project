@@ -101,4 +101,4 @@ Views for repeatable reporting
 
 Data cleaning & transformation queries
 
-![PowerBI Dashboard]()
+![PowerBI Dashboard](https://github.com/ashutosh24sharma/Election_2024_sql-project/blob/main/Power%20Bi%20Dashboard.png)
